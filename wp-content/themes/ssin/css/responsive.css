@@ -1,0 +1,264 @@
+@media (max-width: 768px) {
+    .top-header {
+        display: inline-block;
+        position: relative;
+    }
+
+    .main-menu-top {
+        display: none;
+        background: #2179bc;
+        position: absolute;
+        top: 31px;
+        left: 0;
+        right: 0;
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+
+    .main-menu-top ul li {
+        width: 100%;
+        display: inline-block;
+        line-height: 63px;
+        padding-left: 0px;
+    }
+
+    .main-menu-top ul li.current-menu-item a {
+        color: #ff40f0;
+    }
+
+    .main-menu-top ul li a {
+        color: #fff;
+        font-weight: bold;
+        font-size: 18px;
+        padding-left: 35px;
+    }
+
+    .main-menu-top nav .sub-menu {
+        background: #86b2d1;
+        position: initial;
+        width: 100%;
+        margin-left: 0px;
+    }
+
+    .main-menu-top ul {
+        margin-left: 0;
+        margin-right: 0;
+        padding-right: 0;
+        padding-left: 0;
+    }
+
+    .main-menu-top nav .sub-menu li {
+        padding-left: 0px;
+        line-height: 50px;
+    }
+
+    .top-header .logo {
+        width: 100%;
+        padding-top: 30px;
+    }
+
+    .mobile-button-menu {
+        display: block;
+        position: absolute;
+        right: 8px;
+        top: 40px;
+        width: 50px;
+    }
+
+    .index-title {
+        font-size: 28px;
+        line-height: 32px;
+    }
+
+    .block-top-procedure {
+        margin-bottom: 40px;
+    }
+
+    .section-home-about-stewart--about-stewart {
+        margin-top: 20px;
+    }
+
+    .section-home-about-stewart--title {
+        font-size: 28px;
+        line-height: 32px;
+    }
+
+    .section-home-talk-to-us-today--title {
+        font-size: 38px;
+    }
+
+    .home-regular-procedures--title {
+        font-size: 32px;
+        text-align: left;
+    }
+
+    .home-regular-procedures {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+
+    .home-regular-procedures--item {
+        width: 100%;
+    }
+
+    .home-regular-procedures--item .item--image {
+        width: 50%;
+        float: left;
+    }
+
+    .home-regular-procedures--item .item--image img {
+        max-width: 60px;
+        float: right;
+        margin-right: 30px;;
+    }
+
+    .home-regular-procedures--item a {
+        float: left;
+        margin-left: 15px;
+    }
+
+    .home-regular-procedures--item a .item--title {
+        font-size: 26px;
+        font-weight: bold;
+        margin-top: 30px;
+    }
+
+    .home-coming-in-from-out--title {
+        font-size: 34px;
+        line-height: 36px;
+    }
+
+    .block-tab-navigate .nav-tabs {
+        display: none;
+    }
+
+    .block-tab-navigate .tab-content > .tab-pane {
+        display: block;
+        opacity: 1;
+        margin-bottom: 50px;
+        margin-top: 30px;
+    }
+
+    .block-tab-navigate--tab-content--mobile--subtitle {
+        font-weight: bold;
+        color: #237cc7;
+    }
+    footer{
+        height: auto;
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+    .background-footer-s{
+        height: auto;
+        background: none;
+    }
+    .menu-footer{
+        margin-top: 40px;
+        margin-bottom: 40px;
+        display: block;
+        float: left;
+        width: 100%;
+    }
+    .footer-logo{
+        margin-bottom: 40px;
+    }
+    .btn-open-menu{
+        background: url("../images/menu_open.png") no-repeat;
+        padding: 25px 4px;
+        background-size: 85% 84%;
+    }
+    .btn-close-menu{
+        background: url("../images/menu_close.png") no-repeat;
+        padding: 25px 4px;
+        background-size: 85% 84%;
+    }
+    .about-content-quote{
+        padding-left: 0;
+    }
+    .about-location--wrap-content{
+        padding-left: 0;
+        margin-top: 40px;
+    }
+    .location--great-value-of-money{
+        font-size: 30px;
+        line-height: 30px;
+    }
+    .location--great-value-of-money-content{
+        height: auto;
+    }
+    .procedures-list-article--right{
+        margin-left: 0px;
+        padding-left: 0px;
+        margin-bottom: 60px;
+    }
+    .procedures-list-article--wrap-image {
+        margin-left: -45px;
+        margin-right: -45px;
+    }
+    .category-procedure-introduce-wrap{
+        padding-left: 45px;
+        padding-right: 45px;
+    }
+    .single-content-enquire-procedure{
+        padding: 30px 45px;
+    }
+    .single-procedure-enquire-block{
+        padding-bottom: 0px;
+        margin-left: -30px;
+        margin-right: -30px;
+        border-bottom: 20px solid rgb(134, 178, 209);
+    }
+    .single-procedure-enquire-block .procedures-list-article--left{
+        padding-right: 0;
+        padding-left: 55px;
+    }
+    .single-procedure-enquire-block .procedures-list-article--left .single-title-enquire-procedure{
+        line-height: 35px;
+        margin-top: 35px;
+    }
+    .single-procedure-enquire-block .procedures-list-article--left .btn-view-more
+    {
+        margin-bottom: 40px;
+    }
+    .section-single-procedure-block-wrap--background{
+      display: none;
+    }
+    .mobile-single-procedure-risk{
+        font-size: 32px;
+        color: #2378bd;
+        line-height: 20px;
+        margin-bottom: 30px;
+        margin-top: 65px;
+        font-family: 'Roboto Slab', serif;
+        width: 100%;
+        padding-bottom: 0px;
+        margin-left: 15px;
+    }
+    .single-content-risk-procedure--text{
+      
+        margin-top: 20px;
+    }
+    .single-content-risk-procedure{
+        margin-left: -15px;
+        margin-right: 15px;
+    }
+    .home-coming-in-from-out{
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+    .home-talk-to-us--title{
+        font-size: 35px;
+        line-height: 35px;
+    }
+    .home-talk-to-us{
+        padding-top: 30px;
+        padding-bottom: 30px;
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+}
+@media (min-width: 768px){
+    .page-template-page-home .menu-main-menu-container li a{
+        color: #ff40f0;
+    }
+}
